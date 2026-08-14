@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Senior iOS Developer",
+        "description": "We are looking for a **Senior iOS Developer** to join our dynamic team. Responsibilities: * Design, develop, and maintain applications for Apple’s iOS platform. * Lead the development team and mentor junior developers. Collaborate with cross-functional teams to define, design, and ship new features. * Ensure the performance, quality, and responsiveness of applications. Identify and correct bottlenecks and fix bugs. * Stay updated with the latest industry trends and technologies to ensure the app’s competitiveness.",
+        "created": "2024-08-02",
+        "job_type": "Full-Time",
+        "location": "Budapest",
+        "remote": "Remote",
+        "company_id": 1
+    },
+    {
+        "id": 2,
+        "title": "Embedded Software Engineer",
+        "description": "We are looking for an Embedded Software Engineer to join our innovative team. In this role, you will design, develop, and maintain software for embedded devices and systems. You will be responsible for the complete software development lifecycle, from requirements to production and commercial deployment. Your tasks will include coding, testing, and debugging system software, as well as analyzing and enhancing the efficiency, stability, and scalability of system resources. You will collaborate closely with hardware designers and other engineers to ensure seamless integration and optimal performance of our products.",
+        "created": "2024-08-10",
+        "job_type": "Full-Time",
+        "location": "Debrecen",
+        "remote": "On-site",
+        "company_id": 3
+    },
+    {
+        "id": 3,
+        "title": "Back End Developer",
+        "description": "We are looking for a skilled Back End Developer to join our team. In this role, you will be responsible for creating, maintaining, and optimizing the server-side logic of our web applications. You will manage databases, ensure seamless data exchange between the server and users, and collaborate with front-end developers to integrate user-facing elements. Your expertise will help us build and maintain functional, high-performance web applications. You will also troubleshoot and debug applications, implement security measures, and stay updated with the latest industry trends to keep our systems efficient and secure.",
+        "created": "2024-08-12",
+        "job_type": "Full-time",
+        "location": "Budapest",
+        "remote": "Hybrid",
+        "company_id": 4
+    },
+    {
+        "id": 4,
+        "title": "Software Developer Intern",
+        "description": "We are offering an exciting opportunity for a Software Developer Intern to join our team. In this role, you will assist in the development and maintenance of software applications, collaborating closely with our development team to design and implement new features. You will write clean, efficient, and well-documented code, and conduct thorough testing and debugging of software applications.",
+        "created": "2024-08-01",
+        "job_type": "Internship",
+        "location": "Győr",
+        "remote": "On-site",
+        "company_id": 2
+    },
+    {
+        "id": 5,
+        "title": "Game Developer",
+        "description": "We are looking for a talented Game Developer to join our team on a contract basis. In this role, you will be responsible for designing and developing engaging video games for various platforms. You will translate game concepts into efficient code, construct the game engine, and contribute to the design, audio, and visual elements of the game. Your tasks will include creating storyboards and game scripts, animating characters and environments, and conducting thorough testing to ensure a high-quality final product. You will also troubleshoot and resolve any technical issues that arise during development.",
+        "created": "2024-07-29",
+        "job_type": "Contract",
+        "location": "Budapest",
+        "remote": "Remote",
+        "company_id": 6
+    },
+    {
+        "id": 6,
+        "title": "Junior Android Developer",
+        "description": "We are looking for a Junior Android Developer to join our team. In this role, you will assist in building and maintaining user-friendly Android applications. You will work closely with our product team to implement new features and ensure the robustness and reliability of our apps. Your responsibilities will include writing clean and efficient code, conducting unit tests, and debugging applications. This position offers a great opportunity to learn and grow your skills in Android development while contributing to the success of our mobile products.",
+        "created": "2024-08-02",
+        "job_type": "Full-Time",
+        "location": "Budapest",
+        "remote": "On-site",
+        "company_id": 5
+    },
+    {
+        "id": 7,
+        "title": "Medior Front End Developer",
+        "description": "We are looking for a Medior Front End Developer to join our team. In this role, you will be responsible for building and maintaining web applications. You will work closely with our development team, as well as UX/UI designers and graphic designers, to deliver a consistent and reliable web experience. Your tasks will include optimizing web design for mobile and other platforms, ensuring high-quality graphic standards and brand consistency, and implementing solutions that are user-responsive and efficient. You will also be involved in testing and debugging to ensure the best user experience.",
+        "created": "2024-08-20",
+        "job_type": "Full-Time",
+        "location": "Budapest",
+        "remote": "Hybrid",
+        "company_id": 6
+    },
+    {
+        "id": 8,
+        "title": "Front End Intern",
+        "description": "We are looking for a motivated Front End Intern to join our team. In this role, you will assist in developing and maintaining user-friendly web interfaces. You will work closely with our experienced developers to design and implement new features, write clean and efficient code using HTML, CSS, and JavaScript, and ensure the technical feasibility of UI/UX designs. This internship will provide you with hands-on experience in front-end development, allowing you to enhance your skills and contribute to real projects.",
+        "created": "2024-08-20",
+        "job_type": "Internship",
+        "location": "Budapest",
+        "remote": "Hybrid",
+        "company_id": 6
+    },
+    {
+        "id": 9,
+        "title": "Full Stack Software Engineer",
+        "description": "We are looking for a Full Stack Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining both the front-end and back-end components of our web applications. You will work closely with our product and design teams to create seamless user experiences and ensure the functionality and performance of our applications. Your tasks will include writing clean, efficient code, developing and managing databases, creating and consuming APIs, and troubleshooting and debugging issues",
+        "created": "2024-08-15",
+        "job_type": "Full-Time",
+        "location": "Győr",
+        "remote": "Remote",
+        "company_id": 2
+    },
+    {
+        "id": 10,
+        "title": "Security Engineer",
+        "description": "We are looking for a Security Engineer to join our team. In this role, you will be responsible for protecting our computer systems and networks from security breaches and cyber threats. You will design, implement, and maintain security protocols, conduct risk assessments, and develop secure network solutions. Your tasks will include monitoring for security breaches, responding to incidents, and educating staff on security best practices.",
+        "created": "2024-08-07",
+        "job_type": "Full-Time",
+        "location": "Debrecen",
+        "remote": "On-site",
+        "company_id": 3
+    },
+    {
+        "id": 11,
+        "title": "Test Automation Engineer",
+        "description": "We are looking for a Test Automation Engineer to join our team. In this role, you will design, develop, and maintain automated test scripts to ensure the quality and performance of our software applications. You will collaborate with QA analysts and software developers to identify test requirements and create automated test solutions. Your responsibilities will include writing and executing test scripts, analyzing test results, and reporting defects.",
+        "created": "2024-08-08",
+        "job_type": "Full-Time",
+        "location": "Budapest",
+        "remote": "On-site",
+        "company_id": 4
+    },
+    {
+        "id": 12,
+        "title": "Java Developer",
+        "description": "We are looking for a skilled Java Developer to join our team on a contract basis. In this role, you will be responsible for designing, developing, and managing Java-based applications. You will work on both back-end and front-end development, ensuring the performance, quality, and responsiveness of our applications. Your tasks will include writing efficient, reusable, and reliable Java code, troubleshooting and resolving technical issues, and collaborating with other team members to deliver high-quality software solutions.",
+        "created": "2024-08-21",
+        "job_type": "Contract",
+        "location": "Budapest",
+        "remote": "Remote",
+        "company_id": 6
+    }
+]
